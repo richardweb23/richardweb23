@@ -1,7 +1,7 @@
 ### Olá Mundo! 👋
 
 
-- 🔭 Atualmente trabalhando na maior cervejaria do mundo! 🍺 Ambev 🍺 ...
+- 🔭 Atualmente trabalhando na maior cervejaria do mundo! 🍺
 - 📫 Email para contato: richardweb23@gmail.com
 - 📄 Linkedin: https://www.linkedin.com/in/richard-quintanilha-55abba33
 
